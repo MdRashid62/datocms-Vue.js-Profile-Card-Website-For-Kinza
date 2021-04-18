@@ -1,4 +1,4 @@
-# Vue.js P
+# Vue.js Pr
 
 ## Deploy on DatoCMS
 
