@@ -1,4 +1,4 @@
-# Vue.js Profile card u
+# Vue.js Profile card us
 
 ## Deploy on DatoCMS
 
