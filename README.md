@@ -1,4 +1,4 @@
-# Vue.js Profi
+# Vue.js Profil
 
 ## Deploy on DatoCMS
 
