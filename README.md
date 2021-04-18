@@ -1,4 +1,4 @@
-# Vue.js Profile card using DatoC
+# Vue.js Profile card using DatoCM
 
 ## Deploy on DatoCMS
 
