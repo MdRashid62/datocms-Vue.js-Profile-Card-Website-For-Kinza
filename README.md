@@ -1,4 +1,4 @@
-# Vue.js Profile ca
+# Vue.js Profile car
 
 ## Deploy on DatoCMS
 
