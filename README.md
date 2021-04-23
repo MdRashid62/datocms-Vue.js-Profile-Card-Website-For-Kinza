@@ -1,6 +1,6 @@
 # Vue.js Profile card using DatoCMS.
 
-## Deploy on Dat
+## Deploy on Dato
 
 [![Deploy with DatoCMS](https://dashboard.datocms.com/deploy/button.svg)](https://dashboard.datocms.com/deploy?repo=datocms/vuejs-demo)
 
