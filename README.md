@@ -9,7 +9,7 @@
 npm install
 ```
 
-### Compiles and hot-reloads for Developm
+### Compiles and hot-reloads for Developme
 ```
 npm run serve
 ```
